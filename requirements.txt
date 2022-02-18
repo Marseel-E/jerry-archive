@@ -1,0 +1,4 @@
+discord
+pyrebase
+python-dotenv
+humanize
